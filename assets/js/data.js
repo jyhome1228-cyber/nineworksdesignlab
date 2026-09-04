@@ -110,6 +110,36 @@ window.NWDL_DATA = {
       source: 'Nineworks Practice',
       summary: '실무 프로젝트에서 반복 적용 가능한 타이포그래피, 컬러, 컴포넌트 규칙을 연구 아카이브 형식으로 정리합니다.',
       relatedResearch: ['R.002']
+    },
+    {
+      id: 'A.003',
+      title: 'Operational System Design Method',
+      titleKo: '운영 환경을 먼저 이해하는 시스템 설계 방법',
+      category: 'SYSTEM / OPERATIONS',
+      year: '2026',
+      source: 'SOST STABLE LABS',
+      summary: '기능 목록보다 먼저 사용자, 운영자, 데이터와 업무 흐름을 분석하고 실제 운영되는 구조를 설계하는 SOST의 구축 관점을 Design Lab의 실무 연구 아카이브로 재정리했습니다.',
+      relatedResearch: []
+    },
+    {
+      id: 'A.004',
+      title: 'AESOST Community Platform Study',
+      titleKo: '에이소스트 커뮤니티·에디토리얼 플랫폼 구조 연구',
+      category: 'PLATFORM / CONTENT',
+      year: '2026',
+      source: 'SOST STABLE LABS',
+      summary: '콘텐츠 플랫폼, 에디토리얼 퍼블리싱, 글로벌 레퍼런스와 커리어 컨설팅을 하나의 사용자 흐름으로 묶은 AESOST 사례를 콘텐츠 시스템 관점에서 기록합니다.',
+      relatedResearch: []
+    },
+    {
+      id: 'A.005',
+      title: 'RELIM Operations & Knowledge System',
+      titleKo: '리림 운영·FAQ·관리 시스템 아카이브',
+      category: 'WEB / OPERATIONS',
+      year: '2026',
+      source: 'SOST STABLE LABS',
+      summary: '야외 레저 공간의 안내, FAQ 지식 구조와 관리자 운영 기능을 연결한 RELIM 사례를 서비스 운영과 정보 구조의 관점에서 재구성합니다.',
+      relatedResearch: []
     }
   ],
 
