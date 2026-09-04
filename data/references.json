@@ -1,0 +1,12 @@
+[
+  {
+    "id": "REF.001",
+    "type": "BOOK",
+    "author": "Lev Manovich",
+    "title": "AI Aesthetics",
+    "year": "2018",
+    "keywords": ["AI", "Aesthetics", "Visual Culture"],
+    "relatedResearch": ["R.001"],
+    "note": "Reference database placeholder. Replace or expand with actual thesis references."
+  }
+]
