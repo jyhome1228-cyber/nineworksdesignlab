@@ -339,7 +339,6 @@ h1, h2, h3, p { margin-top: 0; }
   color: var(--text-muted);
 }
 
-/* Research / paper detail content */
 [data-entry] .section > .page-intro {
   margin-left: min(340px, 24vw);
 }
@@ -349,12 +348,12 @@ h1, h2, h3, p { margin-top: 0; }
   max-width: 790px;
 }
 
-/* Active navigation */
 body[data-page='research'] .nav a[href='research.html'],
 body[data-page='papers'] .nav a[href='papers.html'],
 body[data-page='journal'] .nav a[href='journal.html'],
-body[data-page='archive'] .nav a[href='archive.html'] {
-  opacity: .45;
+body[data-page='archive'] .nav a[href='archive.html'],
+body[data-page='lab'] .nav a[href='lab.html'] {
+  opacity: .42;
 }
 
 @media (max-width: 1020px) {
