@@ -1,0 +1,24 @@
+[
+  {
+    "id": "J.001",
+    "type": "NOTE",
+    "title": "What Should Designers Design When AI Can Generate Images?",
+    "titleKo": "AI가 이미지를 만드는 시대에 디자이너는 무엇을 디자인해야 하는가",
+    "category": "AI / DESIGN",
+    "date": "2026-09-04",
+    "readTime": "5 MIN READ",
+    "summary": "생성 능력보다 선택, 편집, 맥락 설계의 중요성이 커지는 디자인 실무의 변화를 짧게 기록합니다.",
+    "relatedResearch": ["R.001"]
+  },
+  {
+    "id": "J.002",
+    "type": "MAGAZINE",
+    "title": "Designing Systems, Not Isolated Outputs",
+    "titleKo": "결과물이 아니라 시스템을 디자인한다는 것",
+    "category": "BRAND SYSTEM",
+    "date": "2026-09-01",
+    "readTime": "7 MIN READ",
+    "summary": "브랜드 디자인이 단일 로고나 화면보다 운영 가능한 규칙과 구조로 이동하는 이유를 정리합니다.",
+    "relatedResearch": ["R.002"]
+  }
+]
